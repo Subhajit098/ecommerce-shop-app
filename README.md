@@ -492,7 +492,5 @@ kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonp
 >> kubectl describe challenges -n easyshop
 >> ```
 
-## **Congratulations!** <br/>
-![EasyShop Website Screenshot](./public/Deployed.png)
 
 ### Your project is now deployed.
